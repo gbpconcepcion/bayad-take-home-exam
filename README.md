@@ -4,9 +4,9 @@ it is a web application for a digital wallet system using MERNG stack (mongodb, 
 
 clone both into separate folders
 
-type `npm install` on both to install dependencies
-
 open two terminals
+
+type `npm install` on both to install dependencies
 
 BACKEND
 in order to start the server head into the cloned bayad-take-home-exam-server repository and type `npm run dev` in one of the terminals.

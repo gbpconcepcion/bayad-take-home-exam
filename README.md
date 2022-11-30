@@ -4,7 +4,7 @@ it is a web application for a digital wallet system using MERNG stack (mongodb, 
 
 clone both into separate folders
 
-open two terminals
+open a terminal for each folder
 
 type `npm install` on both to install dependencies
 
